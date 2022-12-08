@@ -2,7 +2,7 @@
  
 David Buyck
 
-VR Racing Simulator IK and Interactivity
+VR Racing Simulator 
 
 ### Click on the images to play the YouTube videos!!!
 
