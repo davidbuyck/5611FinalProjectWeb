@@ -2,7 +2,8 @@
 
 David Buyck
 
-ABSTRACT
+## Abstract
+
 I created a VR racing simulator that has levels of interactivity usually found in videogames. Because of the interaction techniques I classify this project as a Game or Interactive Demo even though my attempt was to make this as realistic as possible. Using the inverse kinematics techniques covered in this course I created an avatar that the user embodies to operate the controls of the racecar [1][2][4]. The inverse kinematics used in this game/simulation use state-of-the-art IK algorithms that efficiently and accurately run-in real time, allowing the rest of the game logic to execute at 100+ frames per second [1]. I also used state-of-the-art VR interaction techniques which allows the user to control the race car with gestures that simulate real race car controls [2][3][5]. The human body animations with the inverse kinematics of the users’ arms allows for a more embodied and immersive experience that is more engaging and compelling for the user [1][2][3][4][5]. 
 
 ## 1 Final State of Project
