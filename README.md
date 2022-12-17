@@ -1,4 +1,4 @@
-# 5611FinalProjectWeb
+# 5611 Final Project
  
 David Buyck
 
