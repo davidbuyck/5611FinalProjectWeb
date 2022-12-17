@@ -12,7 +12,7 @@ Intermediate Progress
 
 Final Version
 
-[![Final Video](https://img.youtube.com/vi/FNexQxCz6_0/0.jpg)](https://youtu.be/FNexQxCz6_0)
+[![Final Video](https://img.youtube.com/vi/7IvLtS4I-bo/0.jpg)](https://youtu.be/7IvLtS4I-bo)
 
 ## Key Algorithms
 
@@ -29,6 +29,8 @@ Will embodiment with IK improve the immersive experience of VR in a racing simul
 ## Initial Sketch
 
 ![image](https://user-images.githubusercontent.com/47149695/206577408-01cb5760-f8c8-4f51-8621-7bbf51ecb622.png)
+
+## Presentation
 
 ![image](https://user-images.githubusercontent.com/47149695/206577450-3472af02-2cfd-46ee-a978-e01100706efa.png)
 
