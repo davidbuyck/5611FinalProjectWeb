@@ -37,6 +37,8 @@ I was curious if embodiment with IK would improve the immersive experience of VR
 
 ![image](https://user-images.githubusercontent.com/47149695/206577408-01cb5760-f8c8-4f51-8621-7bbf51ecb622.png)
 
+![image](https://user-images.githubusercontent.com/47149695/206577450-3472af02-2cfd-46ee-a978-e01100706efa.png)
+
 I made my initial sketch off the racing scene in Ready Player One where Parzival was racing with his VR avatar. I started by bringing in the Unity XR packages and setting up OpenXR input systems so this can run on any OpenXR supported HMD. I think brought in a gender-neutral humanoid model and setup the IK targets to the joints so the IK algorithm can map the body positions with the users hand controllers. I then brought in a car model and used an immense amount of vector math and linear algebra to allow the user to interact with the objects in the vehicle. I created these algorithms myself and did not use any existing packages or algorithms for these interactions. After that I mapped the users’ interactions with car physics and sounds to create the simulation. I had no unexpected changes, and the final project is very close to the sketch I originally made. 
 
 ## 5 Peer Feedback
