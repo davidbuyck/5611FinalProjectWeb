@@ -55,10 +55,16 @@ I want to implement foot tracking or pedal controllers in this project. This wou
  
 ## References
 [1] Ayman Alzayat, Mark Hancock, and Miguel A. Nacenta. 2019. Quantitative Measurement of Tool Embodiment for Virtual Reality Input Alternatives. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). Association for Computing Machinery, New York, NY, USA, Paper 443, 1–11. https://doi-org.ezp1.lib.umn.edu/10.1145/3290605.3300673
+
 [2] Hieu Lê, Tuan Long Pham, and Gerrit Meixner. 2017. A Concept For A Virtual Reality Driving Simulation In Combination With A Real Car. In Proceedings of the 9th International Conference on Automotive User Interfaces and Interactive Vehicular Applications Adjunct (AutomotiveUI '17). Association for Computing Machinery, New York, NY, USA, 77–82. https://doi-org.ezp1.lib.umn.edu/10.1145/3131726.3131742
+
 [3] HyeonBeom Yi, Jiwoo Hong, and Woohun Lee. 2019. DexController : Hand-Held Controller Recognizing Grasp-Pose and Grasp-Force in Virtual Reality Defense Game. In 25th ACM Symposium on Virtual Reality Software and Technology (VRST '19). Association for Computing Machinery, New York, NY, USA, Article 106, 1–2. https://doi-org.ezp1.lib.umn.edu/10.1145/3359996.3365031
+
 [4] Mathias Parger, Joerg H. Mueller, Dieter Schmalstieg, and Markus Steinberger. 2018. Human upper-body inverse kinematics for increased embodiment in consumer-grade virtual reality. In Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology (VRST '18). Association for Computing Machinery, New York, NY, USA, Article 23, 1–10. https://doi-org.ezp1.lib.umn.edu/10.1145/3281505.3281529
+
 [5] Mohamed Suhail Mohamed Yousuf Sait, Shyam Prathish Sargunam, Dustin T. Han, and Eric D. Ragan. 2018. Physical hand interaction for controlling multiple virtual objects in virtual reality. In Proceedings of the 3rd International Workshop on Interactive and Spatial Computing (IWISC '18). Association for Computing Machinery, New York, NY, USA, 64–74. https://doi-org.ezp1.lib.umn.edu/10.1145/3191801.3191814
+
+
 
 This project was made by David Buyck using the Unity Engine with the Unity XR and Animation Rigging packages. I purchased the assets from the Unity asset store.
 
