@@ -10,7 +10,7 @@ Intermediate Progress
 
 [![Intermediate Progress](https://img.youtube.com/vi/KqXl652vIJQ/0.jpg)](https://youtu.be/KqXl652vIJQ)
 
-Final Version
+Final Version (4K)
 
 [![Final Video](https://img.youtube.com/vi/ubHl7nM-QQ8/0.jpg)](https://youtu.be/ubHl7nM-QQ8)
 
