@@ -65,7 +65,7 @@ I want to implement foot tracking or pedal controllers in this project. This wou
 
 [5] Mohamed Suhail Mohamed Yousuf Sait, Shyam Prathish Sargunam, Dustin T. Han, and Eric D. Ragan. 2018. Physical hand interaction for controlling multiple virtual objects in virtual reality. In Proceedings of the 3rd International Workshop on Interactive and Spatial Computing (IWISC '18). Association for Computing Machinery, New York, NY, USA, 64–74. https://doi-org.ezp1.lib.umn.edu/10.1145/3191801.3191814
 
-
+## [View the code on Github](https://github.com/davidbuyck/5611FinalProject.git)
 
 This project was made by David Buyck using the Unity Engine with the Unity XR and Animation Rigging packages. I purchased the assets from the Unity asset store.
 
